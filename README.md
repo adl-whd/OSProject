@@ -6,8 +6,8 @@ Section: __6__.
 
 Team Mates:
 1. __Adli Bin Wahid__ and __2211623__
-2. __Fill name__ and __matric no__
-3. __Fill name__ and __matric no__
+2. __Amirul Hakim Bin Zaiki__ and __2226287__
+3. __Ahmad Nur Hisyam Bin Mohamad Mansor__ and __2225313__
 
 ## Rules
 1. You are allowed to have **3 group** members. *Exception* is allowed **IFF (if and only if)** you are allowed to have 4 group members if you are a **multinational** or a **multigender** group. 
